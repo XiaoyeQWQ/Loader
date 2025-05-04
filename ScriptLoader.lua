@@ -1,1 +1,1 @@
-game:GetService("StarterGui"):SetCore("SendNotification",{Title = "傻子贝利亚",Text = "我白名单掉了，你叫你妈呢",Icon = "rbxassetid://",Duration = math.huge,Callback = bindable,Button1 = "cnm",Button2 = "cnm"})
+game:GetService("StarterGui"):SetCore("SendNotification",{Title = "不用这个链接了 新的去交流群里边拿",Text = "这个链接的白名单，云端没续费，所以断掉",Icon = "rbxassetid://",Duration = math.huge,Callback = bindable,Button1 = "cnm泄露的dog",Button2 = "cnm说我圈和我二改的"})
